@@ -1,138 +1,138 @@
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;1.24233766233766e-08;8.21203214315548e-05;159.006267806268;27;0.00056980056980057;0.000242065
+"benchmark";"seq_normal";"op";1;1.46501950585176e-08;0.000228135499098066;159.0078125;27;0.000710227272727273;0.000234049
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;2.03889943074004e-08;0.000268308045671;255.010289990645;43;0.000935453695042095;0.000241543
+"benchmark";"seq_normal";"op";1;2.03887915936953e-08;0.000248255941240152;255.010289990645;43;0.000935453695042095;0.000241596
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;4.07896613190731e-08;0.000181531256686371;447.02103250478;75;0.00194174757281553;0.000242435
+"benchmark";"seq_normal";"op";1;4.07663716814159e-08;0.000133761865121021;447.020560747664;75;0.00186915887850467;0.000242033
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;8.1518771331058e-08;0.000204692064612738;831.041198501873;139;0.00374531835205993;0.000242042
+"benchmark";"seq_normal";"op";1;8.15209125475285e-08;0.000233612894173733;831.041198501873;139;0.00374531835205993;0.000242103
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;1.67294573643411e-07;0.000229440204205534;1599.08695652174;267;2;0.000238949
+"benchmark";"seq_normal";"op";1;1.67275362318841e-07;0.000224830089659276;1599.08527131783;267;2;0.000235685
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;3.31614285714286e-07;9.33472157397533e-05;3135.16666666667;523;2;0.000241752
+"benchmark";"seq_normal";"op";1;3.30347222222222e-07;0.000315903076055352;3135.16666666667;523;2;0.000241505
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;6.57878787878788e-07;0.000119774823332208;6207.33333333333;1035;2;0.000241433
+"benchmark";"seq_normal";"op";1;6.5669696969697e-07;6.06508895242802e-05;6207.33333333333;1035;2;0.000241022
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;1.31841176470588e-06;0.00025648173961532;12351.6470588235;2059;2;0.000242887
+"benchmark";"seq_normal";"op";1;1.3175e-06;0.000245623436941736;12351.6470588235;2059;2;0.000241142
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;2.622375e-06;0.000312579469356601;24640.375;4107;2;0.000247262
+"benchmark";"seq_normal";"op";1;2.6225e-06;0.000360261083326198;24640.375;4107;2;0.000249315
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;5.2325e-06;0.000133797163500103;49217.75;8203;2;0.000235512
+"benchmark";"seq_normal";"op";1;5.23225e-06;4.77783086479786e-05;49217.75;8203;2;0.000235473
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;1.0475e-05;0.000429409800085854;98372.5;16395;2.5;0.000235463
+"benchmark";"seq_normal";"op";1;1.04695e-05;4.77554918815093e-05;98372.5;16395;2.5;0.000230341
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;2.107e-05;0.00184755317637031;196682;32779;1;0.000231797
+"benchmark";"seq_normal";"op";1;2.106e-05;0.00142247510668554;196682;32779;1;0.000232018
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;4.303e-05;0.00511550769662001;393290;65547;1;0.000477827
+"benchmark";"seq_normal";"op";1;4.4784e-05;0.00158790508353275;393290;65547;1;0.000494429
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;8.8256e-05;0.00383764504040815;786506;131083;1;0.000962416
+"benchmark";"seq_normal";"op";1;9.1572e-05;0.00273351992420209;786506;131083;1;0.001006949
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;0.000174828;0.0223569279634953;1572938;262155;1;0.001915202
+"benchmark";"seq_normal";"op";1;0.000183314;0.0115072688839999;1572938;262155;1;0.001968665
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;0.000339507;0.0103743516030249;3145802;524299;2;0.003793802
+"benchmark";"seq_normal";"op";1;0.000347873;0.0114763059495357;3145802;524299;1;0.003872697
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;0.000769514;0.014677280477015;6291531;1048588;2;0.008684237
+"benchmark";"seq_normal";"op";1;0.001082832;0.00473353419449953;6291531;1048588;2;0.012099765
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;0.002902445;0.00152102957967756;12582989;2097166;4;0.032507974
+"benchmark";"seq_normal";"op";1;0.002993437;0.00321329933250645;12582989;2097166;4;0.033472029
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;0.005919777;0.00086378474666719;25165904;4194321;8;0.065747383
+"benchmark";"seq_normal";"op";1;0.005850127;0.000568382360226973;25165904;4194321;7;0.064910899
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;0.012346777;0.00160038302760053;50331734;8388631;13;0.136254757
+"benchmark";"seq_normal";"op";1;0.011625664;0.000565067579004735;50331734;8388631;14;0.12793161
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;0.024338808;0.000796770286278531;100663395;16777252;26;0.268419446
+"benchmark";"seq_normal";"op";1;0.022812355;0.00113879301544969;100663393;16777250;24;0.252458784
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;0.080670665;0.00219725065616389;201326747;33554524;84;0.887202019
+"benchmark";"seq_normal";"op";1;0.071645836;0.00199076998886028;201326738;33554515;73;0.787967718
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"seq_normal";"op";1;0.158059207;0.0007024579801842;402653416;67109033;161;1.736132576
+"benchmark";"seq_normal";"op";1;0.143226641;0.00184782002995197;402653403;67109020;153;1.578888243
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000528522;0.460685783207771;1526758;334012;66;0.005979072
+"benchmark";"par_normal";"op";1;0.000379202;0.571751563008204;2393447;536172;84;0.00528296
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.00184887;0.0861004341946046;13748805;3033781;94;0.020215367
+"benchmark";"par_normal";"op";1;0.001920145;0.0699116870334167;6079446;1367107;148;0.020282644
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.003795232;0.0957955036027786;12483044;2753694;146;0.035521496
+"benchmark";"par_normal";"op";1;0.003683636;0.112694061058022;3393336;761369;145;0.036431233
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.001155618;0.0245257552083993;8854364;1951563;160;0.011018946
+"benchmark";"par_normal";"op";1;0.001212577;0.0426051172566476;5112883;1149036;230;0.011713373
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.00041524;0.0508387792841289;3212397;705674;178;0.00443867
+"benchmark";"par_normal";"op";1;0.000428564;0.0587527316253582;1212962;268858;334;0.004817237
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000418285;0.0452395291130764;3575797;786523;191;0.004659463
+"benchmark";"par_normal";"op";1;0.000444705;0.0474293870475401;1314217;291887;287;0.004805516
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000383199;0.0695756296891747;3301771;724604;174;0.004379668
+"benchmark";"par_normal";"op";1;0.00042558;0.050840761500284;1239726;276268;300;0.004763975
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000397887;0.0351541281912005;3494128;767877;154;0.004375202
+"benchmark";"par_normal";"op";1;0.000407815;0.0569486775105101;1096270;242648;261;0.004407226
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000407084;0.0407788635096923;3351383;735072;168;0.004430174
+"benchmark";"par_normal";"op";1;0.000417995;0.0317712543808242;1220890;271757;279;0.004606962
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000370155;0.0346721602455339;3075646;675524;169;0.004164576
+"benchmark";"par_normal";"op";1;0.000384662;0.0406283046349687;1030052;227392;260;0.004239179
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000414919;0.0424496841774884;3523949;773320;167;0.004584284
+"benchmark";"par_normal";"op";1;0.000406513;0.0350091748346037;1173587;258857;272;0.004481966
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000363462;0.0508356968766534;2693507;590505;163;0.003961606
+"benchmark";"par_normal";"op";1;0.000376336;0.0340207828461839;1068407;235924;245;0.004124394
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000417644;0.00883361071724477;3550969;778193;178;0.004608688
+"benchmark";"par_normal";"op";1;0.000402326;0.0193442465118282;1124546;248329;279;0.004443856
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000388479;0.0499134237248342;2940276;646327;183;0.004291333
+"benchmark";"par_normal";"op";1;0.000411543;0.0225788657642078;1143775;248999;268;0.004541419
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000413967;0.0252191665665906;3565284;780458;168;0.00466239
+"benchmark";"par_normal";"op";1;0.000406744;0.0132698064597515;1185899;256821;272;0.004863904
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.00042096;0.0725450779261479;3477943;756877;152;0.005055277
+"benchmark";"par_normal";"op";1;0.000412284;0.0344229967539615;1341011;284709;238;0.004849977
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000576482;0.0777902833190622;5173322;1124289;104;0.006940183
+"benchmark";"par_normal";"op";1;0.000536938;0.18015095368087;1826471;369604;181;0.006890709
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.000732204;0.0620363950718994;6084240;1313940;85;0.009013465
+"benchmark";"par_normal";"op";1;0.000694214;0.0304747672948948;2350041;477376;102;0.008694124
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.001267658;0.0479531478594194;10149889;2217633;75;0.016387301
+"benchmark";"par_normal";"op";1;0.001197669;0.0227404894286185;3696922;792249;85;0.01488461
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.003302206;0.0701400298790901;20159941;4360410;74;0.036345522
+"benchmark";"par_normal";"op";1;0.003076436;0.0891251748359414;5297586;1022450;82;0.034857619
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.008204646;0.0724580041623052;47201168;10211234;82;0.091702723
+"benchmark";"par_normal";"op";1;0.007872641;0.0666295419708045;12723296;2673720;81;0.085518445
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.015482344;0.0102419336382025;86387784;18727742;78;0.169516196
+"benchmark";"par_normal";"op";1;0.014937516;0.0140407053725103;32964193;6515269;142;0.16410931
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"par_normal";"op";1;0.0210011;0.0134670164649845;48112764;10053947;81;0.230571081
+"benchmark";"par_normal";"op";1;0.02268311;0.00756368701758057;22581159;4175964;107;0.249208793
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.000261541;0.0668175885136237;2477724;542987;121;0.002939216
+"benchmark";"range";"op";1;0.000334107;0.119570888737806;1622673;360913;178;0.00379287
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.000475542;0.034769988010349;4031329;886186;225;0.005214836
+"benchmark";"range";"op";1;0.000487435;0.0312439836079099;1636211;364594;351;0.00547404
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.00101809;0.0788883219154535;8452994;1862310;435;0.010932256
+"benchmark";"range";"op";1;0.000983897;0.0151437500125122;2802514;626614;708;0.011397611
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.001014133;0.0250332030815694;8528924;1878400;406;0.011209615
+"benchmark";"range";"op";1;0.001034553;0.0244965419442749;2976244;663252;666;0.011494842
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.001020055;0.0529361574120926;8774517;1932837;400;0.011234052
+"benchmark";"range";"op";1;0.001046455;0.0180810802922549;3050099;682174;666;0.011593409
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.001027578;0.0203074142083256;9141713;2015087;399;0.011305184
+"benchmark";"range";"op";1;0.001031747;0.0260372367791309;2950131;659647;689;0.011408939
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.001030113;0.0338282466375283;8418466;1855762;392;0.011312829
+"benchmark";"range";"op";1;0.001066293;0.0278345159179001;3184952;711649;653;0.011777804
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.001057735;0.0143119002733221;9061745;2000026;382;0.011732936
+"benchmark";"range";"op";1;0.001087892;0.0300067941930157;3268135;730695;708;0.012028905
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.001098581;0.0272805395887626;9264939;2039957;422;0.012087353
+"benchmark";"range";"op";1;0.001125914;0.024318508947752;3445118;770861;676;0.012262253
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.001171628;0.0335454654188955;10654321;2348061;409;0.012852696
+"benchmark";"range";"op";1;0.001182821;0.0155960080950872;4032040;902466;692;0.013052868
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.001368608;0.0175872185963238;12734289;2808046;433;0.015076722
+"benchmark";"range";"op";1;0.001321702;0.0124408159263279;4997398;1122786;747;0.014648715
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.0016463;0.0218696471826839;16307697;3596458;443;0.01813331
+"benchmark";"range";"op";1;0.001648305;0.0128698433041181;7343585;1646907;807;0.018176057
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.002262787;0.0159924998956073;23897690;5276466;439;0.024988445
+"benchmark";"range";"op";1;0.002273829;0.0126639496238374;12437962;2791886;845;0.024917285
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.003480902;0.00531362078607289;40324506;8973704;500;0.038310533
+"benchmark";"range";"op";1;0.003459055;0.00577987117266721;23547245;5286270;787;0.038077233
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.005944796;0.00743373328420148;73917885;16335339;429;0.065330454
+"benchmark";"range";"op";1;0.005929303;0.00642814340753765;45683053;10256559;772;0.0655632
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.01079663;0.00337288193325521;138470793;30705138;424;0.119708409
+"benchmark";"range";"op";1;0.010883945;0.00276951838398726;90178714;20289253;777;0.120644552
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.020855957;0.0060458870939811;169003611;37388602;1227;0.230515733
+"benchmark";"range";"op";1;0.020888761;0.00639956808492134;179535128;40472491;807;0.229541497
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.041167674;0.00478804498457478;126309186;27948493;3767;0.453478609
+"benchmark";"range";"op";1;0.041279847;0.00740253252857007;279287601;62766183;980;0.456806353
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.082453438;0.00185949276237437;280439306;61997390;7697;0.909146853
+"benchmark";"range";"op";1;0.08237654;0.00619896139733502;357482522;80282107;2558;0.907690911
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.168072948;0.00123658025021238;353596020;78573919;16872;1.852491199
+"benchmark";"range";"op";1;0.169132642;0.00461720808286695;499783116;111850199;5199;1.866405315
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.334153387;0.00346645421922087;514278239;113841803;33849;3.68135098
+"benchmark";"range";"op";1;0.342212245;0.00451078654255877;801609184;179243116;10728;3.76314181
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;0.658431222;0.00177609783462075;927872939;205969207;68468;7.252810997
+"benchmark";"range";"op";1;0.665508552;0.00403894103299261;844791042;192518228;22766;7.317553116
 "title";"name";"unit";"batch";"elapsed";"error %";"instructions";"branches";"branch misses";"total"
-"benchmark";"range";"op";1;1.309268685;0.00081386237206138;1147765573;254210962;91648;14.41597851
+"benchmark";"range";"op";1;1.310197163;0.0017304139046489;1464773141;325617012;45080;14.431166158
